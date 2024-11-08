@@ -71,3 +71,5 @@ docker run --rm -p 3000:3000 --env-file .env trading-agent
 
 ## Disclaimer
 Trading carries risk. This project is unaudited and provided as-is—use at your own discretion.
+
+Developer: [@Manokil](https://t.me/Rust0x_726)
